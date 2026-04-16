@@ -5,8 +5,8 @@ conversation context, decide whether to **execute silently**, **execute and
 notify**, **confirm before executing**, **ask a clarifying question**, or
 **refuse / escalate** — and show the entire pipeline behind the decision.
 
-- **Live:** _(deploy URL goes here once you push to Vercel)_
-- **Repo:** _(GitHub URL goes here)_
+- **Live:** https://alfred-decision-layer.vercel.app
+- **Repo:** https://github.com/yateeshbalaji/alfred-decision-layer
 
 ---
 
